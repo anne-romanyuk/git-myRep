@@ -6,10 +6,7 @@ stop tarakan
 line+
 one more line
 
-<<<<<<< HEAD
 
 Check it out!
 I will revert it.
-=======
-new line
->>>>>>> 43d203172e0fc9e21720789f385ba23ad9e123fd
+
