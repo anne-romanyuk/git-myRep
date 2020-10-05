@@ -6,15 +6,7 @@ stop tarakan
 line+
 one more line
 
-<<<<<<< HEAD
 
 Check it out!
-<<<<<<< HEAD
 I will revert it. this line
 
-=======
-I will revert it.
-=======
-new line
->>>>>>> 43d203172e0fc9e21720789f385ba23ad9e123fd
->>>>>>> parent of b72c2c5... remained everything needed
