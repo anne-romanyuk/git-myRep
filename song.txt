@@ -3,15 +3,4 @@ blah blah blah
 Topolya
 stop tarakan
 
-line+
-one more line
-
-<<<<<<< HEAD
-
-Check it out!
-<<<<<<< HEAD
-I will revert it. this line
-
-=======
-I will revert it.
-=======
+lines lines
