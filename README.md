@@ -1,3 +1,3 @@
 # git-myRep
 
-some content
+some content to be removed
